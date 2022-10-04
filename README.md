@@ -4,7 +4,7 @@
 <h3 align="center">A person trying to know the of computer science</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="300px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajkumarSony&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarSony" /> 
-  <a href="https://github.com/RajAdwaita?tab=followers">
+  <a href="https://github.com/RajkumarSony?tab=followers">
     <img src="https://img.shields.io/github/followers/RajkumarSony?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
@@ -56,11 +56,13 @@
 
 <p align="center"><img align="center" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="Rajkumar Sony" /></p>
+<p align="center">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajkumarSony" alt="Rajkumar Sony" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="Rajkumar Sony" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&" alt="Rajkumar Sony" /></p>
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
