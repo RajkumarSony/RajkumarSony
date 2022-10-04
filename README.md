@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **rk.sony4848@gmail.com**
 
-- 📄 Know about my experiences, [click here](http://RajkumarSony.me)
+- 📄 Know about my experiences, **[click here](http://RajkumarSony.me)**
 
 - ⚡ Fun fact **I am up for watching Anime all night**
 
