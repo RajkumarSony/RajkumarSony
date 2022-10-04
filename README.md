@@ -1,32 +1,35 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Sony</h1>
 <h3 align="center">A person trying to know the of computer science</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="300px" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayverma88746&label=Profile%20views&color=0e75b6&style=flat" alt="akshayverma88746" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarsony_&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarsony_" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akshayv55350575" target="blank"><img src="https://img.shields.io/twitter/follow/akshayv55350575?logo=twitter&style=for-the-badge" alt="akshayv55350575" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajkumarsony_" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumarsony_?logo=twitter&style=for-the-badge" alt="rajkumarsony_" /></a> </p>
 
-- 🔭 I’m currently working on **Music system recommender**
+- 🔭 I’m currently working on **Online Nursery Portal**
 
-- 🌱 I’m currently learning **Python, Django, Flask**
+- 🌱 I’m currently learning **SpringBoot, Hibernate, Angular**
 
-- 👯 I’m looking to collaborate on **Any python projects**
+- 👯 I’m looking to collaborate on **Any SpringBoot projects**
 
-- 🤝 I’m looking for help with **Data visualization**
+- 🤝 I’m looking for help with **Java Projects**
 
-- 💬 Ask me about **Python, C++, C**
+- 💬 Ask me about **Java, JavaFx, Sql, .Net, Python, C++, C, JavaScript, Jquery**
 
 - 📫 How to reach me **rk.sony4848@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1avdL36Pi2lFc03rC0DmM1acpyNnYXYku/view?usp=sharing](https://drive.google.com/file/d/1avdL36Pi2lFc03rC0DmM1acpyNnYXYku/view?usp=sharing)
 
 - ⚡ Fun fact **I am up for gaming all night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akshayv55350575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshayv55350575" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-verma-836339208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-verma-836339208/" height="30" width="40" /></a>
-<a href="https://instagram.com/akshayverma8874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayverma8874" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hellx_reaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hellx_reaper" height="30" width="40" /></a>
+<a href="https://twitter.com/rajkumarsony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkumarsony_" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/RajkumarSony/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/RajkumarSony/" height="30" width="40" /></a>
+
+<a href="https://instagram.com/rajkumarsony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajkumarsony_" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/RajkumarSony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hellx_reaper" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/hellx_reaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hellx_reaper" height="30" width="40" /></a>
 </p>
 
