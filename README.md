@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Rajkumar Sony</h1>
 <h3 align="center">A person trying to know the of computer science</h3>
+<br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300px" height="300px" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajkumarSony&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarSony" /> 
   <a href="https://github.com/RajkumarSony?tab=followers">
     <img src="https://img.shields.io/github/followers/RajkumarSony?label=Followers&style=social" alt="GitHub Badge">
