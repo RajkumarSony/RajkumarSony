@@ -64,8 +64,8 @@
   </a> 
 </p>
 ---hjfhfhgvhgb
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshayverma88746&show_icons=true&locale=en&layout=compact" alt="akshayverma88746" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="RajkumarSony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayverma88746&show_icons=true&locale=en" alt="akshayverma88746" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="RajkumarSony" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayverma88746&" alt="akshayverma88746" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&" alt="RajkumarSony" /></p>
