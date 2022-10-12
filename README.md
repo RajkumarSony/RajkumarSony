@@ -67,6 +67,12 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajkumarSony" alt="Rajkumar Sony" /></a> </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs"></a>
+</p>
+
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="Rajkumar Sony" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
