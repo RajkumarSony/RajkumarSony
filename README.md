@@ -66,15 +66,17 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajkumarSony" alt="Rajkumar Sony" /></a> </p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RajkumarSony&&theme=xcode)](https://github.com/RajkumarSony)
+
 ---
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Rajkumar Sony" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en&theme=tokyonight" alt="Rajkumar Sony" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&show_icons=true&locale=en&theme=tokyonight" alt="Rajkumar Sony" /></p>
 
 <p align="center">
   <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs">
