@@ -72,11 +72,11 @@
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajkumarSony&show_icons=true&locale=en&layout=compact" alt="Rajkumar Sony" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en&theme=tokyonight" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&show_icons=true&locale=en&theme=tokyonight" alt="Rajkumar Sony" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajkumarSony&show_icons=true&locale=en" alt="Rajkumar Sony" /></p>
 
 <p align="center">
   <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs">
