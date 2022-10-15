@@ -87,7 +87,7 @@
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/RajkumarSony?tab=achievements"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarSony&theme=gotham&show_icons=true&locale=en" alt="Rajkumar Sony" /></a>
+<a href="https://github.com/RajkumarSony?tab=achievements"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarSony&theme=gotham&hide_border=true&show_icons=true&locale=en" alt="Rajkumar Sony" /></a>
 <a href="https://github.com/RajkumarSony?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=RajkumarSony&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@RajkumarSony's trophy stats"/></a>
 </p>
 
