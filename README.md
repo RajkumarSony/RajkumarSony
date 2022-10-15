@@ -5,6 +5,10 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<!-- < img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif">
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajkumarSony&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarSony" /> 
   <a href="https://github.com/RajkumarSony?tab=followers">
@@ -20,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **Any SpringBoot projects**
 
-<img align="right" alt="git" width="200" height="200" src="https://octodex.github.com/images/heisencat.png">
+<!-- img align="right" alt="git" width="200" height="200" src="https://octodex.github.com/images/heisencat.png" -->
 
 - 🤝 I’m looking for help with **Online IDE Project**
 
