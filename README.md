@@ -38,7 +38,7 @@
 - 📄 Know about my experiences, **[click here](http://RajkumarSony.me)**
 
 - ⚡ Fun fact **I am up for watching Anime all night**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <table><tr>
