@@ -74,7 +74,7 @@
 <br><br>
 <p align="center">
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaluisadc&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajkumarSony&layout=compact&theme=radical&custom_title=Languages&show_icons=true&count_private=true&hide_border=true" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
 </p>
 
