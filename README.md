@@ -106,10 +106,11 @@
 ---
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3ARajkumarSony+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajkumarSony&layout=compact&theme=radical&custom_title=Languages&utcOffset=4"  width="31%" alt="@RajkumarSony's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3ARajkumarSony+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajkumarSony&&layout=compact&theme=radical&custom_title=Languages"hide_border=true"  width="64%" alt="@RajkumarSony's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ARajkumarSony+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajkumarSony&layout=compact&theme=radical&custom_title=Languages"hide_border=true"  width="64%" alt="@RajkumarSony's profile-details"/></a>
 </p>
 
 
+[![@rajkumarsony's Holopin board](https://holopin.me/rajkumarsony)](https://holopin.io/@rajkumarsony)
 
 ---
 
