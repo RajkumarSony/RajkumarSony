@@ -31,7 +31,7 @@
 
 - 🤝 I’m looking for help with ```Online Compiler Project```
 
-- 💬 Ask me about ```Java``` ```JavaFx``` ```Python``` ```C/C++``` ```DSA``` ```SQL``` ```Git``` ```Google Cloud```
+- 💬 Ask me about ```Java``` ```JavaFx``` ```Python``` ```C/C++``` ```DSA``` ```SQL``` ```Google Cloud```
 
 - 📫 How to reach me **rk.sony4848@gmail.com**
 
