@@ -15,8 +15,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajkumarSony&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarSony" /> 
   <a href="https://github.com/RajkumarSony?tab=followers">
     <img src="https://img.shields.io/github/followers/RajkumarSony?label=Followers&style=social" alt="GitHub Badge">
-  </a>
+  </a>   
 </p>
+<a align="right" href='https://www.payumoney.com/paybypayumoney/#/DD11BA8B6BF9C90DDEFA16D7E975373D'><img align="right" src='https://www.payumoney.com/media/images/payby_payumoney/new_buttons/21.png' /></a>
+
 <p align="left"> <a href="https://twitter.com/rajkumarsony_" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumarsony_?logo=twitter&style=for-the-badge" alt="rajkumarsony_" /></a> </p>
 
 
