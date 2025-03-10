@@ -52,7 +52,7 @@
  <br>
 </td>
 <td width="30%">
-<img align="center" alt="Coding" width="150%" src="https://github.com/RajkumarSony/RajkumarSony/blob/main/cropped_image.png">
+  <img align="center" alt="Coding" height="500px" src="./assets/boy.png">
 </td>
 </tr>
 </table>
