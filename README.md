@@ -52,28 +52,52 @@
 </tr>
 </table>
 
-## 🤝 Connect with me
+## 🤝 Connect with Me  
 
-<div align="center">
-  <a href="https://linkedin.com/in/RajkumarSony" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/rajkumarsony_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/>
-  </a>
-  <a href="https://instagram.com/rajkumarsony_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
-  </a>
-  <a href="https://github.com/rajkumarsony" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-  </a>
-  <a href="mailto:rk.sony4848@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
-  </a>
-  <a href="https://discord.com/invite/MhPR4JfY" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="discord"/>
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/RajkumarSony" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/rajkumarsony_" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/rajkumarsony_" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rajkumarsony" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:rk.sony4848@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/invite/MhPR4JfY" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>LinkedIn</b></td>
+    <td align="center"><b>Twitter</b></td>
+    <td align="center"><b>Instagram</b></td>
+    <td align="center"><b>GitHub</b></td>
+    <td align="center"><b>Gmail</b></td>
+    <td align="center"><b>Discord</b></td>
+  </tr>
+</table>
+
+<br>
 
 <!-- Contribution calendar -->
 <div align="center">
@@ -144,7 +168,7 @@
 ## 💼 Work Experience
 
 <div class="experience-card" style="border-left: 4px solid #3498db; padding-left: 20px; margin-bottom: 20px;">
-  <h3>Software Engineer | PLAN-B, Inc. | Osaka, Japan <sup>(Feb 2023 - Present)</sup></h3>
+  <h3>🚀 Software Engineer | PLAN-B, Inc. | Osaka, Japan <sup>(Feb 2023 - Present)</sup></h3>
   <ul>
     <li>Designed and developed microservices architecture using <b>Java</b> and <b>Spring Boot</b></li>
     <li>Integrated <b>Auth0</b> for OAuth 2.0-based authentication and authorization</li>
@@ -153,23 +177,12 @@
   </ul>
 </div>
 <div class="experience-card" style="border-left: 4px solid #2ecc71; padding-left: 20px; margin-bottom: 20px;">
-  <h3>Java Software Engineer | Cognizant | Bangalore, India <sup>(Mar 2022 - Jan 2023)</sup></h3>
+  <h3>🚀 Java Software Engineer | Cognizant | Bangalore, India <sup>(Mar 2022 - Jan 2023)</sup></h3>
   <ul>
     <li>Implemented front-end components using <b>Angular</b></li>
     <li>Developed <b>RESTful APIs</b> improving data retrieval efficiency by 30%</li>
     <li>Utilized AWS services for scalable deployments</li>
   </ul>
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/RajkumarSony/nursery-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajkumarSony&repo=nursery-portal&theme=react" />
-  </a>
-  <a href="https://github.com/RajkumarSony/silent-email-service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajkumarSony&repo=silent-email-service&theme=react" />
-  </a>
 </div>
 
 
