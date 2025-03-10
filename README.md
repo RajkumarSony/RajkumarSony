@@ -1,3 +1,4 @@
+
 <img src="https://raw.githubusercontent.com/RajkumarSony/RajkumarSony/main/assets/colored.png" width="100%" alt="Profile Banner">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajkumar Sony</h1>
@@ -44,6 +45,10 @@
 - 📫 How to reach me: [rk.sony4848@gmail.com](mailto:rk.sony4848@gmail.com)
 - 🌏 Languages: `English`, `Hindi`, and `Conversational Japanese (JLPT N3)`
 - ⚡ Fun fact: `I'm up for watching Anime all night! 😍`
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/RajkumarSony"><img width="50%" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=RajkumarSony&button_colour=0e75b6&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+</div>
  <br>
 </td>
 <td width="30%">
