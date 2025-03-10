@@ -46,13 +46,14 @@
 - 🌏 Languages: `English`, `Hindi`, and `Conversational Japanese (JLPT N3)`
 - ⚡ Fun fact: `I'm up for watching Anime all night! 😍`
 
+<br>
 <div align="center">
   <a href="https://www.buymeacoffee.com/RajkumarSony"><img width="50%" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=RajkumarSony&button_colour=0e75b6&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 </div>
  <br>
 </td>
 <td width="30%">
-  <img align="center" alt="Coding" height="500px" src="./assets/boy.png">
+  <img align="center" alt="Coding" height="100%" src="./assets/boy.png">
 </td>
 </tr>
 </table>
