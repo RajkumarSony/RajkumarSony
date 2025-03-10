@@ -26,7 +26,7 @@
 </div>
 <table border="0">
 <tr>
-<td width="60%">
+<td width="80%">
 
 ## 👨‍💻 About Me
 
@@ -40,8 +40,8 @@
 - ⚡ Fun fact: I'm up for watching Anime all night! 😄
 
 </td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/RajkumarSony/RajkumarSony/main/assets/programmer.svg" alt="Programmer Illustration" width="100%">
+<td width="20%">
+<img align="center" alt="Coding" width="100%" src="https://github.com/RajkumarSony/RajkumarSony/blob/main/cropped_image.png">
 </td>
 </tr>
 </table>
