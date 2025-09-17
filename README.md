@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/RajkumarSony/RajkumarSony/main/assets/colored.png" width="100%" alt="Profile Banner">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajkumar Sony</h1>
-<h3 align="center">Software Engineer @ PLAN-B, Inc. | Java & Spring Boot | AWS Cloud</h3>
+<h3 align="center">Software Engineer | Java & Spring Boot | AWS Cloud</h3>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RajkumarSony&label=Profile%20views&color=0e75b6&style=flat" alt="RajkumarSony" /> 
