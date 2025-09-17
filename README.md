@@ -68,12 +68,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/rajkumarsony_" target="_blank">
+      <a href="https://twitter.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://instagram.com/rajkumarsony_" target="_blank">
+      <a href="https://instagram.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40"/>
       </a>
     </td>
