@@ -174,7 +174,7 @@
 ## 💼 Work Experience
 
 <div class="experience-card" style="border-left: 4px solid #3498db; padding-left: 20px; margin-bottom: 20px;">
-  <h3>🚀 Software Engineer | PLAN-B, Inc. | Osaka, Japan <sup>(Feb 2023 - Present)</sup></h3>
+  <h3>🚀 Software Engineer | xxxxx | Osaka, Japan <sup>(Feb 2023 - Present)</sup></h3>
   <ul>
     <li>Designed and developed microservices architecture using <b>Java</b> and <b>Spring Boot</b></li>
     <li>Integrated <b>Auth0</b> for OAuth 2.0-based authentication and authorization</li>
@@ -183,7 +183,7 @@
   </ul>
 </div>
 <div class="experience-card" style="border-left: 4px solid #2ecc71; padding-left: 20px; margin-bottom: 20px;">
-  <h3>🚀 Java Software Engineer | Cognizant | Bangalore, India <sup>(Mar 2022 - Jan 2023)</sup></h3>
+  <h3>🚀 Java Software Engineer | xxxxx| Bangalore, India <sup>(Mar 2022 - Jan 2023)</sup></h3>
   <ul>
     <li>Implemented front-end components using <b>Angular</b></li>
     <li>Developed <b>RESTful APIs</b> improving data retrieval efficiency by 30%</li>
