@@ -41,7 +41,7 @@
 - 🌱 I'm learning `AWS Cloud Solutions`, `React with TypeScript`, and `Microservices`
 - 👯 I'm looking to collaborate on `SpringBoot` and `Java-based projects`
 - 🤝 I'm looking for help with `Online Compiler Project`
-- 💼 Check my portfolio: [rajkumarsony.me](https://rajkumarsony.me)
+- 💼 Check my portfolio: 
 - 📫 How to reach me: [rk.sony4848@gmail.com](mailto:rk.sony4848@gmail.com)
 - 🌏 Languages: `English`, `Hindi`, and `Conversational Japanese (JLPT N3)`
 - ⚡ Fun fact: `I'm up for watching Anime all night! 😍`
